@@ -19,5 +19,5 @@ Now you can grow breasts beyond huge without using Hyper LACT-MAX going over 100
 
 Added a little "Overfilled" Health heddiff, to represent discomfort and pain common with accumulated milk in the breasts without lactation, as a quick little counterbalance for increasing your pawns breasts for free and also because it makes my dick hard.
 The health hediff adds +5% pain and nothing else. It comes coupled with a thought hediff that's -2 mood. Once your pawn is milked, the health hediff goes away the next check (~60k ticks, maybe 30k, don't remember).
-The thought remains for a full day, but goes away if they've been milked.
+The thought remains for a full two days, but goes away if they've been milked.
 

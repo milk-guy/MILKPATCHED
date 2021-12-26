@@ -41,14 +41,18 @@ This should make it so breast severity grows ~0.300 every quadrum, and up to ~1.
 FAQ (I'm lying, no one ever asks these, I'm making them up):
 
 -Anon, why did you make this mod?
+
 Lactation makes my dick extremely hard, and seeing how they crippled it in the original mod made me and my dick sad :(
 
 -What are your previous experiences on modding, rimworld or otherwise?
+
 Literally none. I learned how to edit .xmls and decompile/recompile C++ exclusively here, which explains my incompetence partly.
 
 -can you help me with [MODDING ISSUE HERE]?
+
 Chances are probably not, given my aforementioned incompetence, but sure, just ask for the milk guy on /rwg/. I might be there for a while.
 
 -can you change [THING] in this mod?
+
 Can't you? Seriously speaking, yeah probably, but it's really simple stuff and I reckon you could change it if you spent an afternoon figuring out dnspy or another simple tool.
 I'm being a dick. Ask me about it and I might do it, if it seems reasonable.

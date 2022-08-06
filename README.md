@@ -38,6 +38,16 @@ Decreased breast growth rate ( 0.05f(5%) -> 0.005f(0.5%) ); previous rate meant 
 This should make it so breast severity jumps ~0.009 severity every 1/2 day, or ~0.020 every day.
 This should make it so breast severity grows ~0.300 every quadrum, and up to ~1.2 a year, assuming they're never milked, which means even a girl with tiny breasts could become colossal in the span of a year, assuming permanent lactation and no milking whatsoever. Maybe this is still much? I feel it's adequate, whatever.
 
+UPDATE 1.2 SPECIAL 'MILKY CATS' EDITION:
+
+After a long time doing jack shit, I have come to the conclusion that making a specific race produce way more milk than others would make my dick hard. Therefore, I changed the milkpatch around, and now O21 Forgotten Realms Tabaxi now produce double the milk of other races. Why them specifically? Take a wild guess.
+
+Still, if you have a better idea of what race should be milk tanks of joy, you can just go to rjw-mc-master>1.3>Patches>MilkPatch.xml and go to the final patch sequence, replacing "O21_FR_Tabaxi" with the defname of whatever race(s) you deem more fitting. Also, you could change it so instead of producing MORE milk, they produce FASTER instead, just by editing the <milkIntervalDays> value.
+
+As a secondary note, I am aware that RJW has updated to a new 'cleaner' 5.0 version. I do not use that version, and thus haven't tested it with this version of RJWMC, so I can't guarantee that it works correctly. Ideally, use pre-5.0 rjw to avoid conflicts/issues. Or don't, I'm not your dad.
+
+============================================================
+
 FAQ (I'm lying, no one ever asks these, I'm making them up):
 
 -Anon, why did you make this mod?
@@ -55,4 +65,4 @@ Chances are probably not, given my aforementioned incompetence, but sure, just a
 -can you change [THING] in this mod?
 
 Can't you? Seriously speaking, yeah probably, but it's really simple stuff and I reckon you could change it if you spent an afternoon figuring out dnspy or another simple tool.
-I'm being a dick. Ask me about it and I might do it, if it seems reasonable.
+I'm being a dick. Ask me about it on /rwg/ and I might do it, if it seems reasonable.
